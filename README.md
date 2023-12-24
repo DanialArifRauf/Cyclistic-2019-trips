@@ -167,6 +167,11 @@ trips_tableu2 <- trips_2019v2 %>% select(-c(trip_id, from_station_name, to_stati
 #Writing cleaned dataframe to .csv, to be used in Tableu for visualizations
 write.csv(trips_tableu2, file="C:/Users/dania/Desktop/trips_tableu2.csv")
 ```
+
+## Tableu Dashboard (interactive dashboard can be viewed [here](https://public.tableau.com/views/Cyclistic2019trips/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link))
+
+![Cyclistic Dashboard](https://github.com/DanialArifRauf/Cyclistic-2019-trips/assets/154701480/e1428de9-c2c7-4482-9dbf-99f18932e4d3)
+
 ## Conclusion
 Once differences between customers (casual riders) and subscribers (members) riders are identified, marketing strategies can be tailored to engage casual riders to encourage them into becoming members. 
 
