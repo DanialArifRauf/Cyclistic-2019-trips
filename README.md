@@ -17,7 +17,7 @@ Moreno has set a clear goal: Design marketing strategies aimed at converting cas
 - R packages ~ tidyverse, lubridate, ggplot2
 - Tableu for visualizations
 
-### Tableu dashboard can be viewed [here](https://public.tableau.com/views/Cyclistic2019trips/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link) 
+### Tableau dashboard can be viewed [here](https://public.tableau.com/views/Cyclistic2019trips/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link) 
 <br>
 
 ## R code for cleaning and analysis
